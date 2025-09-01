@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Secrets (never push to GitHub)
+.env
+
+# Database volume
+db_data/
+
+# Logs
+*.log
